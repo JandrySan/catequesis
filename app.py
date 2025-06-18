@@ -245,5 +245,5 @@ def porcentajes():
     return render_template('porcentajes.html', participantes=porcentaje_list, total_dias=total_dias)
 
 
-#if __name__ == '__main__':
-#    app.run(debug=True)
+if __name__ == '__main__':
+    app.run()
