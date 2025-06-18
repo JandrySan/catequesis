@@ -64,8 +64,6 @@ psutil==6.1.0
 pure_eval==0.2.3
 pycparser==2.22
 Pygments==2.18.0
-pyinstaller==6.9.0
-pyinstaller-hooks-contrib==2024.7
 pymongo==4.10.1
 PyMySQL==1.1.1
 pyodbc==5.1.0
